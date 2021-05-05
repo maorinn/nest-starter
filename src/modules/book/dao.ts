@@ -6,7 +6,6 @@ import {
   FindPaginationOptions,
   PaginationResult,
 } from '@model/shared';
-// import { Book } from '@model/index';
 
 import {
   FindBookDto,
